@@ -64,6 +64,7 @@ Power BI Desktop (.pbix file)
 Data Modeling with DAX (YTD, PYTD, GP%)
 
 Interactive slicers and filters
+
 📈 Insights & Business Impact
 
 Identify year-over-year sales performance gaps.
