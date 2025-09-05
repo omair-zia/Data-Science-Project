@@ -64,3 +64,12 @@ Power BI Desktop (.pbix file)
 Data Modeling with DAX (YTD, PYTD, GP%)
 
 Interactive slicers and filters
+📈 Insights & Business Impact
+
+Identify year-over-year sales performance gaps.
+
+Highlight low-performing accounts/products for strategic decisions.
+
+Analyze profitability trends across countries and months.
+
+Support data-driven decision-making with interactive dashboards.
